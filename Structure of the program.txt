@@ -1,0 +1,13 @@
+Employee payroll System
+
+we will have a employee class - that consists of  full tym employees Class and part time employees Clas, Also payroll class that manages our employees, full time and part time employees that will have ID, NAMES AND SALARY as functions.
+
+employee - abstract class with abstract methods 
+
+full time will have  ID, NAME AND SALARY
+
+Part time employee will have -HOURS * HOURLY RATE
+
+payroll system - can remove, show, set the data of paricular employee.
+
+
